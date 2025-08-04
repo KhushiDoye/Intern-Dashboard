@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f0f0;
+  padding: 20px;
+}
+
+.container {
+  background: #de8181;
+  padding: 30px;
+  max-width: 500px;
+  margin: auto;
+  border-radius: 8px;
+  box-shadow: 0 0 10px #b39494;
+  max-height: 1000px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+#dashboard p, #dashboard ul {
+  font-size: 20px;
+  margin: 10px 0;
+}
+
+ul {
+  list-style-type: square;
+  margin-left: 20px;
+}
